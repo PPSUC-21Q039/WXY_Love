@@ -165,7 +165,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 汉仪蝶语体,Verdana";
-            ctx.fillText("  Lily?", 24, 10);
+            ctx.fillText(" Wen?", 24, 10);
             ctx.restore();
         },
         clear: function() {
